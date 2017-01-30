@@ -1619,7 +1619,7 @@ aside:nth-child(odd) {
 #secondary .widget ul li:last-child {
   border-bottom: none;
 }
-#secondary .widget_search {
+/*#secondary .widget_search {
   margin-bottom: 20px;
 }
 #secondary .widget_search label {
@@ -1637,7 +1637,7 @@ aside:nth-child(odd) {
 }
 #secondary .search-submit {
   display: none;
-}
+}*/
 #secondary .widget_recent_entries ul li:before,
 #secondary .widget_recent_comments ul li:before,
 #secondary .widget_categories ul li:before,

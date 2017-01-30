@@ -88,10 +88,6 @@
 			</div>	
 			<?php endif; ?>
 			
-			<div id="top-search">
-				<?php get_template_part('searchform', 'top'); ?>
-			</div>
-			
 		</div>	
 		
 		
